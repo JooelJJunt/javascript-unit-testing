@@ -16,23 +16,23 @@ that contains simple JavaScript library for basic arithmetic operations
 ### Installation
 1.  Clone the repository.
 2.  Install dependencies (Mocha & Chai):
-    ```bash
+```bash
     npm install
-    ```
+```
 
 ## Usage
 
 To run the main program example:
-    ```bash 
+```bash 
     node index.js
-    ```
+```
 
 ## Testing
 
 To run the automated unit tests:
-    ```bash
+```bash
     npm test
-    ```
+```
 
 ## Author
 Jooel Junttila - Initial work
